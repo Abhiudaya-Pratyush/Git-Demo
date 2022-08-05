@@ -1,2 +1,5 @@
 Hello welcome to Git and Github
-~Abhiudaya Pratyush
+This session is about git commands and github repository usage.
+
+~Regards,
+Abhiudaya Pratyush
